@@ -1,0 +1,9 @@
+c:\users\sistemas\documents\visual studio 2013\Projects\whatappsensmsapi\whatappsensmsapi\bin\Debug\whatappsensmsapi.exe.config
+c:\users\sistemas\documents\visual studio 2013\Projects\whatappsensmsapi\whatappsensmsapi\bin\Debug\whatappsensmsapi.exe
+c:\users\sistemas\documents\visual studio 2013\Projects\whatappsensmsapi\whatappsensmsapi\bin\Debug\whatappsensmsapi.pdb
+c:\users\sistemas\documents\visual studio 2013\Projects\whatappsensmsapi\whatappsensmsapi\obj\Debug\whatappsensmsapi.csprojResolveAssemblyReference.cache
+c:\users\sistemas\documents\visual studio 2013\Projects\whatappsensmsapi\whatappsensmsapi\obj\Debug\whatappsensmsapi.Properties.Resources.resources
+c:\users\sistemas\documents\visual studio 2013\Projects\whatappsensmsapi\whatappsensmsapi\obj\Debug\whatappsensmsapi.csproj.GenerateResource.Cache
+c:\users\sistemas\documents\visual studio 2013\Projects\whatappsensmsapi\whatappsensmsapi\obj\Debug\whatappsensmsapi.exe
+c:\users\sistemas\documents\visual studio 2013\Projects\whatappsensmsapi\whatappsensmsapi\obj\Debug\whatappsensmsapi.pdb
+c:\users\sistemas\documents\visual studio 2013\Projects\whatappsensmsapi\whatappsensmsapi\obj\Debug\whatappsensmsapi.whatsappsender.resources
